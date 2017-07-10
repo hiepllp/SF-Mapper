@@ -70,15 +70,11 @@ But SObject to SObjects and JSON to SObjects supported out of the box.
 ### Where can I get it?
 You can use awesome sf deployment tool [githubsfdeploy](https://github.com/afawcett/githubsfdeploy).
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=NikiforovAll&repo=SF-Mapper">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-</a>
-
-### Issues? 
-Feel free to [ask](https://github.com/NikiforovAll/SF-Mapper/issues).
 <br></br>
 <a href="https://githubsfdeploy.herokuapp.com?owner=hiepllp&repo=SF-Mapper">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
+
+### Issues? 
+Feel free to [ask](https://github.com/NikiforovAll/SF-Mapper/issues).
