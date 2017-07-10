@@ -77,3 +77,8 @@ You can use awesome sf deployment tool [githubsfdeploy](https://github.com/afawc
 
 ### Issues? 
 Feel free to [ask](https://github.com/NikiforovAll/SF-Mapper/issues).
+<br></br>
+<a href="https://githubsfdeploy.herokuapp.com?owner=hiepllp&repo=SF-Mapper">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
